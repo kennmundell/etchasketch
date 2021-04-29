@@ -1,0 +1,9 @@
+Instructions for etch a sketch code
+
+w,s keys for back and forward
+a,d keys for left/right 10 degrees
+c for clear
+u for pen up
+l for pen down
+
+#2021 Kenneth Mundell
